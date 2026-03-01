@@ -30,13 +30,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 Os dados utilizados são provenientes do portal de dados abertos da PRF (Polícia Rodoviária Federal), disponíveis em: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
 
-Baixe os arquivos referentes aos anos de 2023, 2024 e 2025, concatene-os em um único arquivo CSV e salve como: datatran/datatran_2023_2024_2025.csv
+O projeto já possui uma pasta .zip com os dados e outra datatran/ com os arquivos descompactados e concatenados em um único arquivo datatran_2023_2024_2025.csv
 
 ### Executar o notebook
 
 Execute as células em ordem sequencial. O notebook está organizado nas seguintes seções:
 
 | Seção | Descrição |
+|---|---|
 | Bibliotecas | Bibliotecas utilizadas ao longo do projeto |
 | Pré-processamento | Limpeza, transformação e encoding dos dados |
 | Análise Exploratória | Histogramas, boxplots, correlações e análise de outliers |
