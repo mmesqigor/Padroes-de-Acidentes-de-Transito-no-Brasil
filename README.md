@@ -15,6 +15,7 @@ Palavras-chave: Ciência de Dados. Acidentes de Trânsito. Polícia Rodoviária 
 ## Pré-requisitos
 
 Python 3.8+
+
 Jupyter Notebook ou JupyterLab
 
 ## Instalação das dependências
@@ -35,13 +36,13 @@ Baixe os arquivos referentes aos anos de 2023, 2024 e 2025, concatene-os em um �
 
 Execute as células em ordem sequencial. O notebook está organizado nas seguintes seções:
 
-| Seção | Descrição
-| Bibliotecas | Bibliotecas utilizadas ao longo do projeto
-| Pré-processamento | Limpeza, transformação e encoding dos dados
-| Análise Exploratória | Histogramas, boxplots, correlações e análise de outliers
-| Análise dos Objetivos | Respostas às hipóteses levantadas sobre os dados
-| K-Means | Aplicação do algoritmo com seleção de K via cotovelo, Silhouette e ARI
-| Hierárquico Max | Aplicação do algoritmo com abordagens de severidade e comportamental
+| Seção | Descrição |
+| Bibliotecas | Bibliotecas utilizadas ao longo do projeto |
+| Pré-processamento | Limpeza, transformação e encoding dos dados |
+| Análise Exploratória | Histogramas, boxplots, correlações e análise de outliers |
+| Análise dos Objetivos | Respostas às hipóteses levantadas sobre os dados |
+| K-Means | Aplicação do algoritmo com seleção de K via cotovelo, Silhouette e ARI |
+| Hierárquico Max | Aplicação do algoritmo com abordagens de severidade e comportamental |
 
 ## Autores
 
